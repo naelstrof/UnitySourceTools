@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 27f59b5d3fb38bd4d844203008e7c17a
+timeCreated: 1517569675
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - vmfText: {fileID: 4900000, guid: 9d7e5b8aba2cfc74d960fc12870fb7d8, type: 3}
+  - mapFBX: {fileID: 100000, guid: 77b0887d274db2847a97685c9dc675c8, type: 3}
+  - decalShader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  - ropePrefab: {fileID: 1242466808652464, guid: d0aee46be7601014897c0addf109c234,
+      type: 2}
+  - decalPrefab: {fileID: 1905463203030152, guid: 7cb274ee30d347a468f8f469083fe30c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
