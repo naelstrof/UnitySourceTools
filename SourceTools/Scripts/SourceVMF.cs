@@ -193,7 +193,7 @@ public class SourceVMF : ScriptableWizard {
 		decal.transform.SetParent (parent);
 	}
 	void SpecialExceptions( GameObject obj ) {
-		if (obj.name == "wood_fence01a" || obj.name == "wood_fence01b" || obj.name == "plasterwall029c_window01a_bars" || obj.name =="wood_fence01c" || obj.name == "plasterwall029g_window01a_bars") {
+		if (obj.name == "wood_fence01a" || obj.name == "wood_fence01b" || obj.name == "plasterwall029c_window01a_bars" || obj.name =="wood_fence01c" || obj.name == "plasterwall029g_window01a_bars" || obj.name == "woodwall030b_window02a_bars") {
 			obj.transform.Rotate (Vector3.up, 90f);
 		}
 	}
