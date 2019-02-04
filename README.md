@@ -2,6 +2,9 @@
 
 TODO polish this with pictures and videos and stuff.
 
+Here's a video I made a while back:
+https://vrcat.club/threads/source-map-port-tutorial.860/
+
 ## How to use
 
 1. Convert bsp into vmf with bspsrc.
