@@ -3,7 +3,7 @@
 TODO polish this with pictures and videos and stuff.
 
 Here's a video I made a while back:
-https://vrcat.club/threads/source-map-port-tutorial.860/
+https://www.youtube.com/watch?v=0a26cHPS-7g
 
 ## How to use
 
